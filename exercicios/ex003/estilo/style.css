@@ -97,6 +97,7 @@ main {
 }
 main p {
     text-indent: 40px;
+    line-height:  2em;
 }
 
 main h1 {
