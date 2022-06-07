@@ -98,6 +98,7 @@ main {
 main p {
     text-indent: 40px;
     line-height: 2em;
+    text-align: justify;
 }
 
 main h1 {
@@ -106,6 +107,7 @@ font-family: var(--fonte-android);
 font-weight: normal;
 font-size: 1.8em;
 line-height: 2em;
+text-align: justify;
 }
 
 main h2 {
@@ -116,6 +118,7 @@ main h2 {
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
     line-height: 2em;
+    text-align: justify;
 }
 
 main img {
